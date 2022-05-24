@@ -1,0 +1,12 @@
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/bin/Debug/netcoreapp3.1/assignment_2_question_1.deps.json
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/bin/Debug/netcoreapp3.1/assignment_2_question_1.runtimeconfig.json
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/bin/Debug/netcoreapp3.1/assignment_2_question_1.runtimeconfig.dev.json
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/bin/Debug/netcoreapp3.1/assignment_2_question_1.dll
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/bin/Debug/netcoreapp3.1/assignment_2_question_1.pdb
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/obj/Debug/netcoreapp3.1/assignment_2_question_1.csprojAssemblyReference.cache
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/obj/Debug/netcoreapp3.1/assignment_2_question_1.AssemblyInfoInputs.cache
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/obj/Debug/netcoreapp3.1/assignment_2_question_1.AssemblyInfo.cs
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/obj/Debug/netcoreapp3.1/assignment_2_question_1.csproj.CoreCompileInputs.cache
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/obj/Debug/netcoreapp3.1/assignment_2_question_1.dll
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/obj/Debug/netcoreapp3.1/assignment_2_question_1.pdb
+/Users/anthonykruger/OneDrive/Richfield/year_3/semester_1/PROG741/assignments/assignment2/assignment_2_question_1/obj/Debug/netcoreapp3.1/assignment_2_question_1.genruntimeconfig.cache
